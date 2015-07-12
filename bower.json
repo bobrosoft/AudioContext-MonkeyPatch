@@ -1,0 +1,13 @@
+{
+  "name": "audiocontext-patch",
+  "description": "Monkeypatch to use proper AudioContext naming on prefixed/deprecated named systems.",
+  "main": "AudioContextMonkeyPatch.js",
+  "authors": [
+    "Chris Wilson <cwilso@gmail.com>"
+  ],
+  "ignore": [
+    "index.html"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
